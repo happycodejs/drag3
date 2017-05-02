@@ -23,7 +23,7 @@ function aa(){
 	console.log('this is the second add');
 	
 	console.log('测试撤销1')
-	
+	console.log('测试撤销2')
 	
 }
 
