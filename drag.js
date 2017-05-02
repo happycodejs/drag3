@@ -21,4 +21,21 @@ function drag(id){
 function aa(){
 	console.log('this is the first add');
 	console.log('this is the second add');
+	
+	console.log('测试撤销1')
+	
+	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
