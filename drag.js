@@ -19,5 +19,6 @@ function drag(id){
 	return false;
 }
 function aa(){
-	
+	console.log('this is the first add');
+	console.log('this is the second add');
 }
